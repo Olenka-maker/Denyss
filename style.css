@@ -1,0 +1,79 @@
+
+
+  
+
+footer {
+    background-color: #8fddf2;
+    padding: 10px;
+    color: rgb(180, 56, 56);
+}
+
+
+
+main {
+    background-color: red;
+    
+    
+}
+
+
+h1 {
+    color:red;
+    background-color: gold;
+    
+}
+
+
+.logo{
+    height: 150px;
+    width: 250px;
+}
+
+h6{
+    text-align: center;
+}
+    
+
+body{
+    background-color: #8fddf2;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header img{
+    border-radius: 4px;
+    border:3px solid yellow;
+}
+
+h2{
+    text-align: center;
+    color: red;
+}
+
+nav{
+    text-align: center;
+    
+}
+
+a{
+    text-decoration: none;
+    color: red;
+    font-size: 20px;
+    background-color: yellow;
+    border-radius: 4px;
+    padding: 7px;
+}
+
+
+main img{
+    width: 300px;
+    height: 300px;
+    border: 3px solid yellow;
+}
+
+h5{
+    text-align: center;
+}
+
+main p{
+    color: #fff7b5;
+}
